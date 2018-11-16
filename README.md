@@ -2,7 +2,7 @@
 
 An Arduino can be connected to the drone using the USB port, or through the UART via the Telemetry port. Thus, all mannor of things can then be controlled by the drone's code, such as servos, stepper motors, and a vast array of sensors.  
 
-There are three methods for connecting Arduino:
+There are three physical methods for connecting Arduino:
 1. Any Arduino USB to the RTF Drone USB
 2. Any Arduino serial port to Telemetry port using a Bi-DirectionalLogic Level Converter
 3. Arduino Due to Telemetry port
