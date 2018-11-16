@@ -1,6 +1,6 @@
 # Servos and stepper motors can be controlled by the Intel® RTF Drone.
 
-An Arduino can be connected to the drone using the USB port, or through the UART via the Telemetry port. Thus, all mannor of things can then be controlled by the drone's code, such as servos, stepper motors, and a vast array of sensors.  
+An Arduino can be connected to the drone using the USB port, or through the UART via the Telemetry port. Thus, all manner of things can then be controlled by the drone's code, such as servos, stepper motors, and a vast array of sensors.  
 
 There are three physical methods for connecting Arduino:
 1. Any Arduino USB to the RTF Drone USB
