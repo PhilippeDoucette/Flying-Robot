@@ -7,7 +7,6 @@ There are three physical methods for connecting Arduino:
 2. Arduino serial port to Telemetry port using a Bi-Directional Logic Level Converter
 3. Arduino Due board to Telemetry port
 
-The Intel® RTF Drone will run Ubuntu. The Ardino IDE will be downloaded and installed directly on the drone.  A mouse, keyboard, and an Arduino Uno or Megga can be plugged into the drone's USB port via a multi-port hub.  The drone can be used as a development workstation and Arduino scripts can be uploaded and run. All the Arduno sample scripts will run, including those that move a servo.
+ROS (Robot Operating System) is installed on the Intel® RTF Drone
 
-
-
+[ROS (Robot Operating System)](http://wiki.ros.org/)
