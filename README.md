@@ -1,6 +1,6 @@
-# Create a flying robot with the Intel® RTF Drone, an Arduino board, and robot parts.
+# Create a flying robot with the Intel® RTF Drone, Arduino, and robot parts.
 
-In this project, an Arduino will be connected to an Intel® RTF Drone using the USB port, or through the UART via the Telemetry port. Thus, all manner of things can then be controlled by the drone's code, such as servos, stepper motors, and a vast array of sensors.  
+In this project, an Arduino will be connected to an Intel® RTF Drone using the USB port. Thus, all manner of things can then be controlled by the drone's code, such as servos, stepper motors, and a vast array of sensors.  
 
 
 ![Quad Image](https://github.com/PhilippeDoucette/Flying-Robot/blob/master/images/IMGP1502.JPG)
