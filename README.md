@@ -20,14 +20,14 @@ An Arduino has be connected to an Intel® RTF Drone using the USB port. Thus, al
 * RealSense 3D camera
 * Forward camera
 * Dowward camera
-* SD card slot
+* MicroSD card slot
 * Beacon LED's
 ### Arduino Due
 * Differential drive wheels
 * Servo controllers
 * Stereo amplifier and speakers
 * Text-to-speech speech system and speaker
-* SD card slot
+* MicroSD card slot
 * White bright LED's for area illumination
 * Tri-color bright LED's as emergency display lights
 
