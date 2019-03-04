@@ -11,7 +11,7 @@ An Arduino has be connected to an Intel® RTF Drone using the USB port. Thus, al
 
 ## Systems
 ### Intel RTF Drone
-* Arm computer running Ubuntu & ROS
+* Intel Atom 64 bit computer running Ubuntu & ROS
 * Global positioning system (GPS)
 * Wi-Fi as access point or connectivity to LAN
 * Celluar modem connectivity to internet
