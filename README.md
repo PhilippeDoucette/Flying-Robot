@@ -7,4 +7,4 @@ In this project, an Arduino will be connected to an Intel® RTF Drone using the 
 
 
 
-The [goal is to create a flying robot](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki), not just a quad rotor drone for photography.
+[The goal is to create a flying robot](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki).
