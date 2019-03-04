@@ -16,11 +16,12 @@ An Arduino has be connected to an Intel® RTF Drone using the USB port. Thus, al
 * Wi-Fi as access point or connectivity to LAN
 * Celluar modem connectivity to internet
 * Flight controller
-* Motor controllers for rotors
+* Electronic Speed controllers (ESP) for rotors
 * RealSense 3D camera
 * Forward camera
 * Dowward camera
 * SD card slot
+* Beacon LED's
 ### Arduino Due
 * Differential drive wheels
 * Servo controllers
