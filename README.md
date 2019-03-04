@@ -22,6 +22,7 @@ In this project, an Arduino will be connected to an Intel® RTF Drone using the 
 * Dowward camera
 * SD card slot
 ### Arduino Due
+* Differential drive wheels
 * Servo controllers
 * Stereo amplifier and speakers
 * Text-to-speech speech system and speaker
