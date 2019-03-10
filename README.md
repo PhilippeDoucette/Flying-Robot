@@ -12,6 +12,7 @@ Intel® RTF Drone connected to a Arduino provides a powerful ROS computer with s
 ### Intel RTF Drone
 * Intel Atom 64 bit computer running Ubuntu & ROS
 * Global positioning system (GPS)
+* Inertial measurement unit (IMU) 
 * Wi-Fi as access point or connectivity to LAN
 * Celluar modem connectivity to internet
 * Flight controller
