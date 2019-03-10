@@ -21,6 +21,8 @@ Intel® RTF Drone connected to a Arduino provides a powerful ROS computer with s
 * Dowward camera
 * MicroSD card slot
 * Beacon LED's
+* HDMI monior output
+* USB 3 connetion for mouse and keyboard
 ### Arduino Due
 * [Differential drive wheels](https://github.com/PhilippeDoucette/Flying-Robot/wiki/Differential-drive-wheels)
 * Servo controllers
