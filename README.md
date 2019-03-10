@@ -6,8 +6,7 @@ An Arduino has be connected to an Intel® RTF Drone using the USB port. Thus, al
 ![Quad Image](https://github.com/PhilippeDoucette/Flying-Robot/blob/master/images/IMGP1502.JPG)
 
 
-
-[The goal is to create a flying robot](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki) as a development platform.
+[The goal is to create a flying robot as a development platform.(https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki) as a development platform.
 
 ## Systems
 ### Intel RTF Drone
@@ -23,7 +22,7 @@ An Arduino has be connected to an Intel® RTF Drone using the USB port. Thus, al
 * MicroSD card slot
 * Beacon LED's
 ### Arduino Due
-* Differential drive wheels
+* [Differential drive wheels](https://github.com/PhilippeDoucette/Flying-Robot/wiki/Differential-drive-wheels)
 * Servo controllers
 * Stereo amplifier and speakers
 * Text-to-speech speech system and speaker
