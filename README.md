@@ -1,4 +1,4 @@
-# Flying robot with the Intel® RTF Drone, Arduino, and robot parts.
+# Flying robot
 
 An Arduino has be connected to an Intel® RTF Drone using the USB port. Thus, all manner of things may be controlled by the drone's code, such as servos, stepper motors, and a vast array of sensors. The Intel system runs ROS and connects to the Arduino using RosSerial.
 
