@@ -33,3 +33,4 @@ Intel® RTF Drone connected to a Arduino provides a powerful ROS computer with s
 * White bright LED's for area illumination
 * Tri-color bright LED's as emergency display lights
 
+This site is under development, documenting the current state of the project
