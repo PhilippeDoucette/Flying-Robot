@@ -6,7 +6,7 @@ An Arduino has be connected to an Intel® RTF Drone using the USB port. Thus, al
 ![Quad Image](https://github.com/PhilippeDoucette/Flying-Robot/blob/master/images/IMGP1502.JPG)
 
 
-[The goal is to create a flying robot as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki) as a development platform.
+[The goal is to create a flying robot as a development platform as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki) as a development platform.
 
 ## Systems
 ### Intel RTF Drone
