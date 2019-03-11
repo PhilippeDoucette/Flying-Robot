@@ -22,6 +22,7 @@ Intel® RTF Drone connected to a Arduino provides a powerful ROS computer with s
 * Dowward camera
 * MicroSD card slot
 * Beacon LED's
+* 20 channel Micro Serial Receiver DSMX 2.4GHz RF (Radio Control)
 * HDMI monior output
 * USB 3 connetion for mouse and keyboard
 ### Arduino Due
