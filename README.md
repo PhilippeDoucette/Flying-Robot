@@ -1,14 +1,20 @@
 # Flying robot
 
-[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Most of the robotic computation is done on servers, while the robot acts as a client.  
-
-
-
+[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Client/Server architecture is used to reduce the computational load on the robot.  Most computation is done on servers, while the robot acts as a client.  The robot may then have a smaller computer and lower cost. The server shares its workload among many robot-clients.  
+Computation that would be difficult or impossible to perform on the robot is done on the servers.  
+•	Large datasets may be accessed. 
+•	Human voice processed. 
+•	Coordination with other members of a swarm.
 
 
 ![Quad Image](images//IMGP1502.JPG)
 
+## Example Application
+
+
 ![Search and Rescue](images/Search_and_Rescue.jpg)
+
+## Hardware
 
 Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with simple connections to external devices. All manner of servos, stepper motors, and a vast array of sensors may be connected to a flying/driving robot platform. The Intel system runs ROS Ubuntu and connects to the Arduino using RosSerial.
 
