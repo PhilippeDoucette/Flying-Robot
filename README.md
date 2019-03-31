@@ -12,7 +12,7 @@
 | Swarm coordination       | Servo control             |
 | Long-range path Planning | Short-range path planning |
 
-The robot consists of several computer types, each appropriate for its task. An [Intel Aero Compute Board](https://software.intel.com/en-us/aero/compute-board) runs Ubuntu , which hosts [ROS](http://www.ros.org), GPS, IMU, and other flight related tasks.  An [Arduino Due] (https://store.arduino.cc/usa/due) is used to interfaces sensors, servos, and LED's.  An [Intel RealSense](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html) is used for on-board image processing.
+The robot consists of several computer types, each appropriate for its task. An [Intel Aero Compute Board](https://software.intel.com/en-us/aero/compute-board) runs Ubuntu , which hosts [ROS](http://www.ros.org), GPS, IMU, and other flight related tasks.  An [Arduino Due](https://store.arduino.cc/usa/due) is used to interfaces sensors, servos, and LED's.  An [Intel RealSense](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html) is used for on-board image processing.
 
 ## Example Application
 Searching for a lost person would require image processing, long-range navigation, voice processing, and other computationally intensive tasks that are best run on a server.  The robot would be connected to the internet via Wi-Fi or a cellular data network.  Servers would be data center located. High level human control would be done via workstation or mobile device.
