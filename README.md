@@ -2,7 +2,7 @@
 
 ![Quad Image](images//IMGP1502.JPG)
 
-[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Multiple robots may participate in this Client/Server architecture, used to reduce the computational load on the robots.  Most processing is done on servers, while robots act as clients.  The robots may then have smaller computers and lower cost. The servers share workload among many robot-clients. Computation that would be difficult or impossible to perform on the robot is done on the servers.  
+[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Servers are networked with the robot to provide related processing. Multiple robots may participate in this Client/Server architecture, used to reduce the computational load on the robots.  Most processing is done on servers, while robots act as clients.  The robots may then have smaller computers and lower cost. The servers share workload among many robot-clients. Computation that would be difficult or impossible to perform on the robot is done on the servers.  
 
   | Server-side              | Client-side               |
   | ------------------------ |---------------------------|
