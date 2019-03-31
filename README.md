@@ -1,15 +1,16 @@
 # Flying robot
 
-Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with simple connections to external devices. All manner of servos, stepper motors, and a vast array of sensors may be connected to a flying/driving robot platform. The Intel system runs ROS Ubuntu and connects to the Arduino using RosSerial.
+[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Most of the robotic computation is done on servers, while the robot acts as a client.  
 
 
-![Quad Image](https://github.com/PhilippeDoucette/Flying-Robot/blob/master/images/IMGP1502.JPG)
 
 
-[The goal is to create a flying robot as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)
+
+![Quad Image](images//IMGP1502.JPG)
 
 ![Search and Rescue](images/Search_and_Rescue.jpg)
 
+Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with simple connections to external devices. All manner of servos, stepper motors, and a vast array of sensors may be connected to a flying/driving robot platform. The Intel system runs ROS Ubuntu and connects to the Arduino using RosSerial.
 
 ## Systems
 ### Intel RTF Drone
