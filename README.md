@@ -52,4 +52,4 @@ Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with 
 
 
 
-This site is under development, documenting the current state of the project
+This site is under development, documenting the current state of the project.  [See this site's wiki for more detail.](../../wiki)
