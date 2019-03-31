@@ -1,6 +1,6 @@
 # Flying robot
 
-[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Client/Server architecture is used to reduce the computational load on the robot.  Most computation is done on servers, while the robot acts as a client.  The robot may then have a smaller computer and lower cost. The server shares its workload among many robot-clients.  
+[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Client/Server architecture is used to reduce the computational load on the robot.  Most processing is done on servers, while robots act as clients.  A robot may then have a smaller computer and lower cost. The servers share workload among many robot-clients.  
 Computation that would be difficult or impossible to perform on the robot is done on the servers.  
 ### Server side processing includes:
   * Large dataset queries
