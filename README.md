@@ -51,7 +51,7 @@ Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with 
 * Tri-color bright LED's as emergency display lights
 
 
-[asdfasd](./wiki/Differential-drive-wheels)
+[asdfasd](../../wiki/Differential-drive-wheels)
 wiki/Differential-drive-wheels
 
 This site is under development, documenting the current state of the project
