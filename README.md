@@ -8,6 +8,9 @@ Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with 
 
 [The goal is to create a flying robot as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)
 
+![Search and Rescue](images/Search_and_Rescue.jpg)
+
+
 ## Systems
 ### Intel RTF Drone
 * Intel Atom 64 bit computer running Ubuntu & ROS
@@ -35,7 +38,7 @@ Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with 
 * Tri-color bright LED's as emergency display lights
 
 
-![Search and Rescue](images/Search_and_Rescue.jpg)
+
 
 
 This site is under development, documenting the current state of the project
