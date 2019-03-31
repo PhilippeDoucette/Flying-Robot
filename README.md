@@ -24,32 +24,6 @@ Searching for a lost person would require image processing, long-range navigatio
 
 Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with simple connections to external devices. All manner of servos, stepper motors, and a vast array of sensors may be connected to a flying/driving robot platform. The Intel system runs ROS Ubuntu and connects to the Arduino using RosSerial.
 
-## Systems
-### Intel RTF Drone
-* Intel Atom 64 bit computer running Ubuntu & ROS
-* Global positioning system (GPS)
-* Inertial measurement unit (IMU) 
-* Wi-Fi as access point or connectivity to LAN
-* Celluar modem connectivity to internet
-* Flight controller
-* Electronic Speed controllers (ESP) for rotors
-* RealSense 3D camera
-* Forward camera
-* Dowward camera
-* MicroSD card slot
-* Beacon LED's
-* 18 channel Micro Serial Receiver DSMX 2.4GHz RF (Radio Control)
-* HDMI monior output
-* USB 3 connetion for mouse and keyboard
-### Arduino Due
-* [Differential drive wheels](../../wiki/Differential-drive-wheels)
-* Servo controllers
-* Stereo amplifier and speakers
-* Text-to-speech speech system and speaker
-* MicroSD card slot
-* White bright LED's for area illumination
-* Tri-color bright LED's as emergency display lights
-
 | [Intel Aero Compute Board](https://software.intel.com/en-us/aero/compute-board)| [Arduino Due](https://store.arduino.cc/usa/due)|
 | ---------------------------------------------------------------- |---------------------------------------|
 | Intel Atom 64 bit computer running Ubuntu & ROS    | [Differential drive wheels](../../wiki/Differential-drive-wheels)|
