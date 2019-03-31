@@ -2,15 +2,15 @@
 
 ![Quad Image](images//IMGP1502.JPG)
 
-[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Client/Server architecture is used to reduce the computational load on the robot.  Most processing is done on servers, while robots act as clients.  A robot may then have a smaller computer and lower cost. The servers share workload among many robot-clients. Computation that would be difficult or impossible to perform on the robot is done on the servers.  
+[A flying robot has been built as a development platform.](https://github.com/PhilippeDoucette/Intel-RTF-Drone-with-servo-control/wiki)  Multiple robots may participate in this Client/Server architecture, used to reduce the computational load on the robots.  Most processing is done on servers, while robots act as clients.  The robots may then have smaller computers and lower cost. The servers share workload among many robot-clients. Computation that would be difficult or impossible to perform on the robot is done on the servers.  
 
-| Server-side              | Client-side               |
-| ------------------------ |---------------------------|
-| Large dataset queries    | Stablility and movement   |
-| Human voice processing   | Sensor polling            |
-| Image recognition        | Servo control             |
-| Swarm coordination       | Speech and sound output   |
-| Long-range path Planning | Short-range path planning |
+  | Server-side              | Client-side               |
+  | ------------------------ |---------------------------|
+  | Large dataset queries    | Stablility and movement   |
+  | Human voice processing   | Sensor polling            |
+  | Image recognition        | Servo control             |
+  | Swarm coordination       | Speech and sound output   |
+  | Long-range path Planning | Short-range path planning |
 
 
 ## Example Application
