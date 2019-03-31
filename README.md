@@ -18,7 +18,7 @@
 ![Quad Image](images//IMGP1502.JPG)
 
 ## Example Application
-Searching for a lost person, as an application example would require image processing, long-range navigation, voice processing, and other computationally intensive tasks that are best run on a server.  The robot would be connected to the internet, via Wi-Fi or a cellular data network.  Servers would be data center located. High level human control would be done via workstation or mobile device.
+Searching for a lost person, as an application example would require image processing, long-range navigation, voice processing, and other computationally intensive tasks that are best run on a server.  The robot would be connected to the internet via Wi-Fi or a cellular data network.  Servers would be data center located. High level human control would be done via workstation or mobile device.
 
 ![Search and Rescue](images/Search_and_Rescue.jpg)
 
