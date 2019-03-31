@@ -50,7 +50,7 @@ Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with 
 * White bright LED's for area illumination
 * Tri-color bright LED's as emergency display lights
 
-| Intel RTF Drone              | Client-side               |
+| [Intel Aero Compute Board](https://software.intel.com/en-us/aero/compute-board)| [Arduino Due](https://store.arduino.cc/usa/due)|
 | ---------------------------------------------------------------- |---------------------------------------|
 | Intel Atom 64 bit computer running Ubuntu & ROS    | [Differential drive wheels](../../wiki/Differential-drive-wheels)|
 | Global positioning system (GPS)| Servo controllers|
