@@ -42,7 +42,7 @@ Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with 
 * HDMI monior output
 * USB 3 connetion for mouse and keyboard
 ### Arduino Due
-* [Differential drive wheels](https://github.com/PhilippeDoucette/Flying-Robot/wiki/Differential-drive-wheels)
+* [Differential drive wheels](../..//wiki/Differential-drive-wheels)
 * Servo controllers
 * Stereo amplifier and speakers
 * Text-to-speech speech system and speaker
@@ -51,7 +51,5 @@ Intel® RTF Drone connected to an Arduino provides a powerful ROS computer with 
 * Tri-color bright LED's as emergency display lights
 
 
-[asdfasd](../../wiki/Differential-drive-wheels)
-wiki/Differential-drive-wheels
 
 This site is under development, documenting the current state of the project
