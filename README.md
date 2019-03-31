@@ -15,6 +15,14 @@
   * Speech and sound output
   * Short-range path planning
 
+| Server-side              | Client-side               |
+| ------------------------ |---------------------------|
+| Large dataset queries    | Stablility and movement   |
+| Human voice processing   | Sensor polling            |
+| Image recognition        | Servo control             |
+| Swarm coordination       | Speech and sound output   |
+| Long-range path Planning | Short-range path planning |
+
 ![Quad Image](images//IMGP1502.JPG)
 
 ## Example Application
