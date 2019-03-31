@@ -1,4 +1,4 @@
-# Flying robot
+# Flying Robot
 
 ![Quad Image](images//IMGP1502.JPG)
 
